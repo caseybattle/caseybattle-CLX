@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - Creating a Live SOC / Honeynet in Azure (https://(https://github.com/caseybattle/Azure-SOC).
+  - Creating a Live SOC / Honeynet in Azure (https://github.com/caseybattle/Azure-SOC).
 
 
 <h2>📺 Popular YouTube Videos</h2>
