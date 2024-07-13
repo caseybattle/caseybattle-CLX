@@ -24,7 +24,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: Linkedin.com/in/casey-battle-32a67521/ 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
